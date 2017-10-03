@@ -1,0 +1,78 @@
+p {
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  border-style: solid;
+
+}
+
+#favorite_band {
+color: orange;
+font-weight: bold;
+}
+
+#favorite_movie {
+font-style: italic;
+color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 3px solid black;
+}
+
+th {
+  color: maroon;
+}
+
+td {
+  color: darkgreen;
+}
+
+.favorite_section {
+border: 10px;
+border-style: groove;
+border-color: green;
+border-radius: 20px;
+padding: 2em;
+margin-left: 2em;
+margin-right: 2em;
+margin-top: 1em;
+margin-bottom: 2em;
+}
+
+.important {
+  color: red;
+}
+
+h3 {
+  color: purple;
+  background-color: gray;
+  border-style: dashed;
+  border-color: yellow;
+}
+
+ul {
+  color: yellow;
+  background-color: green;
+  border-style: double;
+  border-width: 20px;
+  border-color: pink;
+}
+
+li {
+  color:darkblue;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+/*This is CSS comment*/
